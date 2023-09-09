@@ -1,0 +1,17 @@
+// para criar um arquivo json basta:
+npm init -y
+
+// para upar as novas instalações no pacote
+npm upgrade
+
+// para chamar denovo o pacote deletado
+npm install ou npm i
+
+// para instalar de maneira global
+npm install aplicativo -g
+
+// para remover um pacote
+npm uninstall app -g
+
+// para atualizar um pacote 
+npm i app@versao
